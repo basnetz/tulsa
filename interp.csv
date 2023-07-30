@@ -1,0 +1,154 @@
+Issue ,Team
+Database is down or Database DB password issue,Database
+Unix Server down or not available,Unix
+Applicattion is down business not abe to perform action,Support Team
+Password is locked or Expired,Unix
+URL or hyperlink is down,PASE
+SFTP or file transfer not happening,PASE
+Dataprocessing detail not available,Application
+Filesystem space is full or almost full,PASE
+CPU utilization is very much,PASE
+Network issue,NW
+Windows server down,Windows
+Upstream issue,Other
+Datacenter down,Unix
+Disaster,Unix
+Windows password is locked,Windows
+IIS issue,Windows
+Services down in window server,Windows
+Windows patching,Windows
+Windows storage issue,Windows
+Windows server unreachable,Windows
+Windows server not able to connect,Windows
+micosoft tool not working,Windows
+outlook issue,Windows
+AD id not working,Windows
+IIS settings ,Windows
+Windows server CA certificate not working,Windows
+Database record issue,Database
+Database table issue,Database
+table or schema issue,Database
+DB issue,Database
+Database unreachable issue,Database
+Database is down or Database DB password issue,Database
+Database change needed,Database
+Database investigation ,Database
+Database server down,Database
+Unix Server issue,Unix
+Unix Server port,Unix
+Unix Server connectivity,Unix
+apache not starting,Unix
+Server servicegroup down,Unix
+wrong service group,Unix
+certificate expired,Unix
+file owned by root,Unix
+root issue,Unix
+access locked,Unix
+File missing,Unix
+process not starting,Unix
+Sudo not working,Unix
+server down,Unix
+    Preventing installation problems on Linux and UNIX systems,Unix
+    Selection list is empty when installing OMEGAMON for z/OS application support on Windows,Unix
+    Unexpected interface behaviors in a mixed version environment,Unix
+    Data is missing for some attributes or workspaces,Unix
+    Data is missing from Sysplex workspaces,Unix
+    Data is missing from all workspaces,Unix
+    Information in a workspace is inconsistent or a table in a workspace has no rows,Unix
+"    Coupling facility, cross-coupling facility, or system lock information is missing",Unix
+    Some UNIX System Services processes are missing from the UNIX workspaces,Unix
+    Take Action commands show return code 0 but are unsuccessful,Unix
+    UNIX Take Action commands are unsuccessful,Unix
+    z/OS Take Action commands fail,Unix
+    No OMEGAMON for z/OS predefined situations are listed in the Situation Editor,Unix
+    Cross-product links do not function: message KFWITM081E,Unix
+    Cross-product links are missing from the link list,Unix
+    DASD MVS Devices workspace takes a long time to refresh and uses high CPU,Unix
+    Monitoring of UNIX System Services mounted file system affects AutoMount and UnMount,Unix
+    UNIX System Services mounted file systems data is not updated when refreshed,Unix
+"    Portal server, monitoring server hang when UNIX System Services Overview workspace is selected",Unix
+    Listing or deleting zAware credentials,Unix
+    Troubleshooting the zAware appliance,Unix
+Monitoring server prolonged startup and potential shutdown,Unix
+Troubleshooting no data conditions on the OMEGAMON enhanced 3270 user interface,Unix
+OMVS segment errors found in system log on z/OS V2.1 systems,Unix
+Self-describing agent error messages,Unix
+Collecting data for problem determination and save time resolving Problem Management Records (PMRs,Unix
+.Net,Devloper
+AI,Devloper
+Analytics,Analyst
+Android,Devloper
+Angular,Devloper
+API,Devloper
+App,Devloper
+Artificial Intelligence,Devloper
+Automation Test Framework,RPA
+Awards & Recognition,HR
+AWS,Devloper
+BI Tools,Devloper
+C#,Devloper
+Celebration/ Festive,HR
+Cloud,Devloper
+Cloud Computing,Devloper
+Cloud Services,Devloper
+Cloud Tweak,Devloper
+CodeIgniter,Devloper
+Collaborative Version Control,Devloper
+Data & Intelligence,Devloper
+Data Security,Devloper
+Development,Devloper
+DevOps,Devloper
+E-commerce,Devloper
+FireTV App,Support Team
+IBM Cloud,IBM
+Git,Devloper
+Gitlab,Devloper
+Guest Post,Other
+Human Centric,HR
+Hybrid Cloud,Devloper
+iOS,Devloper
+IoT,Devloper
+Java,Devloper
+JavaScript,Devloper
+Jenkins,Devloper
+JQuery,Devloper
+Kubernetes,Devloper
+Load Balancing,Unix
+Logistics,Manager
+Logistics & Supply Chain,Manager
+Logistics Management,Manager
+Machine Learning,Devloper
+Magento,Devloper
+MEAN,Devloper
+Media Coverage,Other
+Microsoft,Windows
+Mobile,Devloper
+Multi Cloud,Devloper
+NodeJS,Devloper
+Open Source,Devloper
+PHP,Devloper
+Procurement,Manager
+Python,Devloper
+QA/Testing,Tester
+React,Devloper
+Recruitment,HR
+Redash,Devloper
+Roku,Devloper
+Ruby,Devloper
+Cyber server Security,Devloper
+Smart Appliances,Manager
+Smart Healthcare,Manager
+Sourcing,HR
+SQL,Database
+SSL,Unix
+Supply Chain,Manager
+Supply Chain Management,Manager
+Swift,Devloper
+Technical,PASE
+Technology,PASE
+VPN,Unix
+Warehouse,Manager
+Web App,Devloper
+Web Development,Devloper
+WordPress,Devloper
+Work Culture,Manager
